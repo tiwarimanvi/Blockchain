@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\Projects\\Blockchain\\hardhat\\contracts\\tutorial.sol": {
+      "lastModificationDate": 1698524208898,
+      "contentHash": "55bba4d3315d8ef2f919c98ed45a9b5c",
+      "sourceName": "contracts/tutorial.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.8.19"
+      ],
+      "artifacts": [
+        "token"
+      ]
+    }
+  }
+}
